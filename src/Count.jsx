@@ -1,5 +1,6 @@
 import { data } from "./assets/data";
 import { useState } from "react";
+import Hello from "./Hello";
 
 const Count = ()=>{
 
@@ -15,6 +16,7 @@ const Count = ()=>{
     }
       
     return <article>
+        <Hello/>
         <h1>KELVIN KAMAU</h1>
           <h2>{value}</h2>
            <button type='button' onClick={changeValue}>CHANGE</button>
