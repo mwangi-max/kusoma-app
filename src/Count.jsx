@@ -15,6 +15,7 @@ const Count = ()=>{
     }
       
     return <article>
+        <h1>KELVIN KAMAU</h1>
           <h2>{value}</h2>
            <button type='button' onClick={changeValue}>CHANGE</button>
            
