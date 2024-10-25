@@ -1,0 +1,27 @@
+export const data = [
+    {
+        name:'kelvin',
+        title:'Rage',
+        id:1
+    },
+    {
+        name:'gibson',
+        title:'escape',
+        id:2
+    },
+    {
+        name:'milton',
+        title:'sare',
+        id:3
+    },
+    {
+        name:'evanso',
+        title:'nikii',
+        id:4
+    },
+    {
+        name:'ken',
+        title:'huyayu',
+        id:5
+    }
+]
